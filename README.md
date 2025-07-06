@@ -17,7 +17,7 @@ I’m a passionate full-stack developer with real-world experience in building c
 🇱🇧 Beirut, Lebanon  
 
 ### 📬 Reach Me  
-📧 **akilismailH@gmail.com**
+📧 **akilismailh@gmail.com**
 
 ### 🧠 Languages I Use  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akil-ismail&layout=compact&theme=tokyonight)
