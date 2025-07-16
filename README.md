@@ -20,7 +20,7 @@ I’m a passionate full-stack developer with real-world experience in building c
 📧 **akilismailh@gmail.com**
 
 ### 🧠 Languages I Use  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akil-Ismail&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akil-Ismail&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2)
 
 ### 💡 Interests  
 TDD • Clean Code • UI/UX • CI/CD • Domain-Driven Design
