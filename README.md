@@ -50,8 +50,15 @@ TDD • Clean Code • UI/UX • CI/CD • Domain-Driven Design
 
 ## 📊 GitHub Highlights
 
-![Akil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil-Ismail&show_icons=true&hight_border=false&theme=tokyonight)
-
+<details>
+  <summary><b>Click to view</b></summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akil-Ismail&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akil-Ismail&theme=dark" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akil-Ismail&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
+</details>
 ---
 
 ## 🤝 Let's Connect
